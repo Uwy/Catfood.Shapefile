@@ -3,6 +3,10 @@ Fork from codeplex source for minor changes and nuget package.
 
 Original repo at https://shapefile.codeplex.com/
 
+## Releases
+
+If you don't want to rebuild anything just pick it up here : https://github.com/Uwy/Catfood.Shapefile/releases
+
 ## Instructions
 
 Following instructions expect you're using a cygwin/bash/zsh that works with nuget in path and working in the Catfood.Shapefile project directory (at the root next to csproj file).

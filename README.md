@@ -17,3 +17,5 @@ $ ./nuget-pack.sh
 $ nuget add nupkgs/Catfood.Shapefile.X.YZ.nupkg -source /your/local/nuget/repo
 ```
 Where `X.YZ` is the version of the package you want to publish and `/your/local/nuget/repo` the path of your local nuget package repository.
+
+Note : On windows, putting -source path in windows style path like `"C:/My/Good/Old/welpdows/path"` works too.
